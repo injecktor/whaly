@@ -132,6 +132,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="generation.hpp" />
+    <ClInclude Include="includes.hpp" />
     <ClInclude Include="parser.hpp" />
     <ClInclude Include="tokenizer.hpp" />
   </ItemGroup>
